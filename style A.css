@@ -1,0 +1,52 @@
+/* CSS Document */
+
+
+
+*{padding:15px;
+ margin:15pxpx;
+}
+
+body{
+	background-image:url(photos/sevice%20background%20pic%203.jpg);
+	background-size:cover;
+	background-position:center;
+	
+	}
+	
+h1{
+	text-align:center;
+	color:#0F0;
+	letter-spacing:1px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:oblique;
+	font-size:36px;
+	
+	}
+	
+h2{
+	
+	text-align:center;
+	color:#009;
+	letter-spacing:1px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-style:italic;
+	font-size:36px;
+	
+
+	
+	}
+	
+h3{
+	
+	text-align:center;
+	color:#00F;
+	letter-spacing:1px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style:oblique;
+	font-size:36px;
+	
+	}
+	
+
+
+
